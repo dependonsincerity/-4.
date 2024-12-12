@@ -1,0 +1,4 @@
+{"gender":null,"avg_age":57.0,"min_age":"32","max_age":"82","patient_count":3}
+{"gender":"Female","avg_age":62.5666666667,"min_age":"16","max_age":"> 89","patient_count":810}
+{"gender":"Male","avg_age":59.8892405063,"min_age":"16","max_age":"> 89","patient_count":632}
+{"gender":"Unknown","avg_age":0.0,"min_age":"> 89","max_age":"> 89","patient_count":2}
